@@ -1,0 +1,6 @@
+{
+  "name": "Complete Login System",
+  "description": "Full-stack Login & Registration system built with React, Node.js, Express, JWT, and MySQL with Roman Urdu comments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
